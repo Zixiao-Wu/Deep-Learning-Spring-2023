@@ -12,12 +12,12 @@ The course teaches students to build deep learning models for solving business p
 4. Applying Sequential Models for Text Analysis; Fundamentals of Recurrent Neural Networks; 
 5. Intro to Self-Supervised Learning and Generative Models; Applying Self-Supervised Learning for Clustering;
 
-## **Learning Objectives:**
+## **Final Project: Deep learning tool and Disneyland review rating analysis**
 
-1. Understand neural networks and how to optimize their performance.
-2. Understand what the deep learning model is, and how to use it in business.
-3. Understand what the deep learning model structure should be used for a given business problem.
-4. Visualize and analyze unstructured datasets.
-5. Apply the deep learning models to gain insights from business problems.
+1. Goal: Predicting the numerical rating based on the text-format review is our team project target. 
+2. Data Source: The "Disneyland Reviews" dataset contains more than 40,000 reviews of the Disneyland Park in California, Tokyo and Hongkong. The reviews were scraped from TripAdvisor and cover a period of several years. 
+3. Model Framework: First we did data preprocessing, normalizing and tokenizing. Then we set up 3 models, a LSTM model and a CNN model and compared them. Finally we adjusted  parameters built the final rating prediction model.
+4. Model Accuracy: The mape as 4.89 and val_mape as 16.4140. The accuracy is 0.589 and precision is 0.58. 
 
-Instructor: Salih Tutun, PhD
+Course Instructor: Salih Tutun, PhD
+
