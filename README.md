@@ -1,5 +1,7 @@
 # **DAT 565E: Deep Learning Spring 2023**
 
+This repository contains the final project of Deep Learning course.
+
 ## **Course Description:**
 
 The course teaches students to build deep learning models for solving business problems using python libraries (e.g., Keras, TensorFlow, etc.). It covers a range of algorithms from neural networks foundations, to convolutional and recurrent network structures. The course will expose students to prevalent business applications of deep learning in different domains (Customer Analytics, Supply Chain Analytics, Healthcare Analytics, Financial Technology Analytics, Accounting Analytics, Talent Analytics, etc.). Upon completing this course, students will know how to build and optimize deep learning models for different business applications.
